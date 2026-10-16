@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NAQL | نقل</string>
+    <string name="app_title_arabic">نقل</string>
+    <string name="app_tagline">مشاركة الملفات بسرعة فائقة دون إنترنت</string>
+    <string name="send">إرسال</string>
+    <string name="receive">استقبال</string>
+    <string name="history">السجل</string>
+    <string name="received_files">الملفات المستلمة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="search_devices">البحث عن أجهزة قريبة</string>
+    <string name="select_files">تحديد الملفات</string>
+    <string name="files_selected">%d ملف محدد</string>
+    <string name="all_categories">الكل</string>
+    <string name="cat_images">صور</string>
+    <string name="cat_videos">فيديو</string>
+    <string name="cat_audio">صوت</string>
+    <string name="cat_docs">مستندات</string>
+    <string name="cat_apps">تطبيقات</string>
+    <string name="cat_other">أخرى</string>
+    <string name="device_name">اسم الجهاز</string>
+    <string name="ready_to_receive">جاهز لاستقبال الملفات</string>
+    <string name="receiving_visible">جهازك مرئي الآن للهواتف القريبة</string>
+    <string name="stop_receiving">إيقاف الاستقبال</string>
+    <string name="transferring">جاري نقل الملفات…</string>
+    <string name="transfer_complete">اكتمل النقل بنجاح</string>
+    <string name="transfer_failed">فشلت عملية النقل</string>
+    <string name="connection_request">طلب اتصال وارد</string>
+    <string name="accept">قبول</string>
+    <string name="reject">رفض</string>
+    <string name="cancel">إلغاء</string>
+    <string name="open_file">فتح الملف</string>
+    <string name="share_file">مشاركة</string>
+    <string name="storage_folder">مجلد الحفظ</string>
+    <string name="clear_history">مسح السجل</string>
+</resources>
